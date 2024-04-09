@@ -53,3 +53,6 @@ escola-titulo {
     tent-align: center;
     padding: 16px 0;
 }
+.estudante-todos{
+    display:grad;
+    grid-template-columns: 20% 20% 20% 20% 20%;
