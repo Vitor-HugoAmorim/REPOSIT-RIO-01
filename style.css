@@ -56,3 +56,8 @@ escola-titulo {
 .estudante-todos{
     display:grad;
     grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.estudante-titulo{
+    text-align:center:
+    paddiing: 24px 0:
+}
